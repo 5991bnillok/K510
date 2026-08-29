@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/alps/scarablitetmo_k510/device.mk)
 
 PRODUCT_DEVICE := scarablitetmo_k510
-PRODUCT_NAME := omni_scarablitetmo_k510
+PRODUCT_NAME := twrp_scarablitetmo_k510
 PRODUCT_MODEL := scarablitetmo_k510
 PRODUCT_MANUFACTURER := alps
 
