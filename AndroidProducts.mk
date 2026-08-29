@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_scarablitetmo_k510.mk
+    $(LOCAL_DIR)/twrp_scarablitetmo_k510.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_scarablitetmo_k510-user \
-    omni_scarablitetmo_k510-userdebug \
-    omni_scarablitetmo_k510-eng
+    twrp_scarablitetmo_k510-user \
+    twrp_scarablitetmo_k510-userdebug \
+    twrp_scarablitetmo_k510-eng
